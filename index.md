@@ -2,7 +2,7 @@
 title: "Home"
 layout: "home"
 ---
-`sfizz` is a software library to play audio in [SFZ format],
+`sfizz` is a [SFZ format] instrument player library,
 it is also available as a [JACK] standalone client and [LV2] plugin.
 
 ## Dependencies
